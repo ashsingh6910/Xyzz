@@ -1,0 +1,123 @@
+*Byte Code Verifier
+
+**Class-Loader
+
+*Which of the following is not a JAVA keyword? 
+***null is a keyword ***True and False are values
+
+*Default Value of all operator
+
+*Ternary Operator(for validation we can use it)
+
+*Primitive variable:
+
+*Ref variable: default value will be null.it is not eligible for garbage collection,bcoz it will be in stack. Variable in heap can be eligble for garbage collection.if object is null & outside the method then it will be in heap. object inside call will be in heap.
+
+****Garbage Collection, 2 basic memory:stack & heap. system.gc(); won't give immediate o/p. Mark&sweep algorithm.
+
+*Static variable/method are also called static member/class level resource.If non-static then related to object(dynamic).
+
+*Local variable:must be intialized, should be in methods & block.No garbage value concept comes in picture.It can not be used twice in same method.If we want to use it many times declare it as global.
+*this. refers to instance variable.
+
+****For loop/*******while loop(e.g:predict the answer)/if-else/*****switch-case(e.g:break statement will be missing in any case)
+
+***Encapsulation- getter will have return type as ur variable type,no arg is needed for getter.
+
+**Access Modifiers 
+
+**Hierarchy of modifier: weaker access(private).Default can also be known as package-private(within the class any package can access).
+*depericated(date)
+
+*Local date in introduced in JAVA8.
+
+***Enums based question
+
+***Static import used for class which has only static method and variable.
+
+***Default constructor is created by compiler once we compile the code.No argument constructor is created by programmer.
+
+*javac will show only declartion of method, not the content of method.
+
+*static intializers/static constructor/static block are used to intialized static variable(can be used by object or class name).
+
+*constructor or setter method are used to intialize non-static varaible.
+
+*finalize() will be executed before GC.
+
+****enum with constructor.
+
+***we can not use static and abstract together(compliation error).
+
+****3 imp methods in object class are: equals, hashcode and toString(toString is explicitly called or called by object while prinitng).
+
+*extendsearch
+
+***final method, final class, final variable.
+****Diff types of wrapper classes available.
+*boxing & unboxing auto boxing and auto-unboxing.
+
+***public class Employee {
+	 public static void main(String [] args) {
+		float a=(float) 1.6;
+		short b= (short) a;
+		System.out.println(b);
+		  }
+Output will be 1.
+
+public class Employee {
+	 public static void main(String [] args) {
+		char a=126;
+		//short b= (short) a;
+		System.out.println(a);
+		  }
+		 }
+
+Output will be ~.
+
+*Scanner- InputMismatchException. Scanner utility.
+**. can not be used as delimiter.
+*System Class
+*****String: Methods of String
+*Before String Concatination arithmetic opertaion can not be performed.
+**StringBuilder,StringBuffer and String: True false question
+***Which class doesnot have now() method? Ans- Period 
+********Inheritance & Polymorphism(Coding question)
+**Diff. b/w Abstract Class and interface? 
+***Declartion of array of Object of class?
+**How to Create Boolean Array?
+******Collection(List & Set).(3-4 Coding Question)
+******Exception.
+******JDBC.
+****Stream API & Lambda Exp.
+**UJUNIT
+JAVA-38
+JSP&SERVLET-13
+WEBSERVICES-1
+JPA-1
+ANGULAR-2-3
+MODULE 1: 13-16 ---- Oracle: 5-6
+
+******HashSet hs=new HashSet();
+		hs.add(new Mixer());
+		hs.add(new Mixer());
+		System.out.println(hs.size()); o/p is 2
+
+****We can not add object in TreeSet.Bcoz we can not arrange Objects in order.Then we need two interfaces comparator and comparable.
+****java8 treeset will not allow null values.
+		 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
