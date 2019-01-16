@@ -1,0 +1,310 @@
+Q 1 - Which of the following is true about Web service?
+
+A - It is self-describing via a common XML grammar.
+
+B - It is discoverable via a simple find mechanism.
+
+C - Both of the above.
+
+D - None of the above.
+
+Answer : C
+Explaination
+Both of the above options are correct.
+
+Q 2 - Which of the following is not a core role in Web Service architecture?
+
+A - Service Provider
+
+B - Service Requestor
+
+C - Service Registry
+
+D - Service Locator
+
+Answer : D
+Explaination
+Service Locator is not a core role in Web Service architecture.
+
+Q 3 - Which of the following role of web service architecture utilizes an existing web service by opening a network connection and sending an XML request?
+
+A - Service Provider
+
+B - Service Requestor
+
+C - Service Registry
+
+D - None of the above.
+
+Answer : B
+Explaination
+The Service Requestor utilizes an existing web service by opening a network connection and sending an XML request.
+
+Q 4 - Which of the following is correct about HTTP protocol?
+
+A - Currently, HTTP is the most popular option for service transport.
+
+B - HTTP is simple, stable, and widely deployed. Furthermore, most firewalls allow HTTP traffic.
+
+C - This allows XML-RPC or SOAP messages to masquerade as HTTP messages.
+
+D - All of the above.
+
+Answer : D
+Explaination
+All of the above options are correct.
+
+Q 5 - Is SOAP platform independent?
+
+A - true
+
+B - false
+
+Answer : A
+Explaination
+Yes! SOAP is platform independent.
+
+Q 6 - Which of the following is correct about UDDI?
+
+A - UDDI is an XML-based standard for describing, publishing, and finding web services.
+
+B - UDDI is a specification for a distributed registry of web services.
+
+C - UDDI is platform independent, open framework.
+
+D - All of the above.
+
+Answer : D
+Explaination
+All of the above options are correct.
+
+Q 7 - Web services allow various applications to talk to each other and share data and services among themselves.
+
+A - true
+
+B - false
+
+Answer : A
+Explaination
+Web services allow various applications to talk to each other and share data and services among themselves.
+
+Q 8 - A web service takes the help of SOAP to transfer a message.
+
+A - true
+
+B - false
+
+Answer : A
+Explaination
+A web service takes the help of SOAP to transfer a message.
+
+Q 9 - The service provider utilizes an existing web service by opening a network connection and sending an XML request.
+
+A - true
+
+B - false
+
+Answer : B
+Explaination
+The service requestor utilizes an existing web service by opening a network connection and sending an XML request.
+
+Q 10 - Service Description is responsible for centralizing services into a common registry and providing easy publish/find functionality.
+
+A - true
+
+B - false
+
+Answer : B
+Explaination
+Service Discovery is responsible for centralizing services into a common registry and providing easy publish/find functionality.
+
+QUESTION 1
+Web service technology uses which of the following?
+XML
+SOAP
+WSDL
+All of the above
+
+YOUR ANSWER - All of the above
+MORE INFORMATION:
+Web services uses XML to tag data, SOAP to transfer information and WSDL to describe the available services.
+
+QUESTION 2
+Web services is based on which of the following?
+Program-to-program interactions
+Human-to-program interactions
+Human-to-human interactions
+All of the above
+
+YOUR ANSWER - Program-to-program interactions
+MORE INFORMATION:
+Web services is the interaction between applications over the Internet.
+
+QUESTION 3
+True or false: Web services is tied to a specific programming language.
+True
+False
+
+YOUR ANSWER - False
+MORE INFORMATION:
+One of the benefits of Web services is that it does not have to be used with a specific operating system or programming language.
+
+QUESTION 4
+Which of the following companies was NOT involved in founding UDDI?
+Microsoft
+Google
+IBM
+Ariba
+
+YOUR ANSWER - Ariba
+CORRECT ANSWER - Google 
+MORE INFORMATION:
+In November 2001, Microsoft, IBM and Ariba ushered UDDI into its beta-testing phase.
+
+QUESTION 5
+WSDL is derived from which of the following?
+REST and SOAP
+REST and NASSL
+SOAP and NASSL
+SOAP and HTML
+
+YOUR ANSWER - SOAP and HTML
+CORRECT ANSWER - SOAP and NASSL 
+MORE INFORMATION:
+WSDL replaces NASSL and SOAP as a way to express business services in the UDDI registry.
+
+QUESTION 6
+It is necessary to have Web services to build a service-oriented architecture.
+True
+False
+
+YOUR ANSWER - True
+CORRECT ANSWER - False 
+MORE INFORMATION:
+Expert Thomas Erl says Web services provides an implementation option for delivering services in a SOA project, but it is not a necessary component.
+
+QUESTION 7
+Which of the following is an example of Web services in action?
+A personal computer connecting to a stockbroker's quote system to request and receive a quote
+Entering client trip information into a travel agent's system, then culling information on flight, hotel and car rental prices and availability
+Entering a ZIP code into a computer to determine the cost of shipping an item via the U.S. Postal Service
+All of the above
+
+YOUR ANSWER - All of the above
+MORE INFORMATION:
+Web services makes it possible to publish applications through a public directory of services.
+
+What is RPC?
+Regional Procedure Calls.
+Remote Procedure Calls. --Correct Option
+Registered Procedure Counselor
+Regional Protection Control.
+
+What is WSDL?
+Web Services Development Language
+Web Services Detail Language
+Web Services Description Language --Correct Option
+Web System Description Language
+
+What UDDI means?
+Universal Definition Discovery and Integration
+Universal Defination Display and Integration
+Universal Description Discovery and Integration --Correct Option
+Universal Discovery Description and Integration
+
+What do you mean by PKI?
+Personal Key Infrastructure.
+Public Key Infrastructure --Correct Option
+Product Key Infrastructure
+Public Key Integration
+
+What is REST?
+Representational State Transfer --Correct Option
+Representational Service Transfer
+Realy State Transfer
+Representational Server Transfer
+
+what DISCO is?
+Data System
+Data
+Discovery --Correct Option
+Distance
+
+Select the communication channels NOT use in a web service?
+HTTP/POST
+MIME --Correct Option
+SOAP
+HTTP/GET
+
+To implement web services in .NET, HTTP handlers are used that interrupt requests to _________ files.
+.asmx --Correct Option
+.asxm
+.amsx
+.asml
+
+What is NOT a part of a SOAP Message ?
+SOAP Body
+SOAP Envelope
+SOAP Headers
+SOAP Footer --Correct Option
+
+
+
+ANGULAR 2----------
+
+Q 1 - Which of the following is correct about Services?
+
+A - Angular 2 Services are a set of code that can be shared by different components of an application.
+
+B - Angular 2 Services cannot be used across multiple applications.
+
+C - Angular 2 Services help to build the applications into many modules.
+
+D - All of the above.
+
+Answer : A
+Explanation
+Services are a set of code that can be shared by different components of an application. So for example if you had a data component that picked data from a database, you could have it as a shared service that could be used across multiple applications.
+
+Q 2 - Which of the following is true?
+
+A - Angular 2 Services are used to define the views of an Angular JS application.
+
+B - Angular 2 Templates are used to define the views of an Angular JS application.
+
+C - Angular 2 Components are used to define the views of an Angular JS application.
+
+D - None of the above.
+
+Answer : B
+Explanation
+Angular 2 Templates are used to define the views of an Angular JS application.
+
+Q 3 - Which of the following is correct about systemjs.config.json?
+
+A - This file is used to give the options about TypeScript used for the Angular JS project.
+
+B - This file contains information about Angular 2 project.
+
+C - This file contains the system files required for Angular JS application.
+
+D - All of the above.
+
+Answer : C
+Explanation
+systemjs.config.json contains the system files required for Angular JS application. This loads all the necessary script files without the need to add a script tag to the html pages.
+
+
+Q 4 - Which of the following filter is used to convert input to all uppercase?
+
+A - uppercase
+
+B - upper
+
+C - Both of the above.
+
+D - None of the above.
+
+Answer : A
+Explanation
+uppercase filter is used to convert the input to all uppercase.
