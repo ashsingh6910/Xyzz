@@ -105,6 +105,30 @@ MODULE 1: 13-16 ---- Oracle: 5-6
 
 ****We can not add object in TreeSet.Bcoz we can not arrange Objects in order.Then we need two interfaces comparator and comparable.
 ****java8 treeset will not allow null values.
+
+*Key can not be duplicated in any MAP.
+***HashMap
+***HashTable & TreeMap will not allow null.
+
+*****HashTable can take any key value pair which is not null.
+**Diff btwn hashtable and hashMap.
+
+**Default at top of switch case.
+
+***Java to database driver. 
+
+***Method stack in  exception handelling.
+
+***If two class base and derived.
+
+*SQL INJECTION. WE USE prepared statement to avoid this.
+
+***ENUM
+
+*instanceof
+
+***savepoint (pdf code)
+***Lambda exp,stream API, jdbc,request object,response object.
 		 
 
 
